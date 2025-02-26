@@ -4,15 +4,20 @@ Juncture visual essays
 **IAGO** </br>
 Long live she so! And long live you to think so! </br>
 
-**OTHELLO** </br>
-And yet, how nature erring from itself— </br>
+**OTHELLO** <p>
+    And yet, how <mark qid:"Q115519012"> nature </mark> erring from itself </p>
 
+(Q115519012
 
+[nature](https://raw.githubusercontent.com/caroline117/media/main/othello.png)
+
+.ve-media https://raw.githubusercontent.com/caroline117/media/main/othello.png
+
+.ve-media (https://raw.githubusercontent.com/caroline117/media/main/othello.png)
 
 .ve-media wc:The_Bug_Peek.jpg left caption="Dynamic image"
 .ve-media wc:The_Bug_Peek.jpg right static caption="Static image"
 
-[](https://)
 
 **IAGO** </br>
 Ay, there’s the point. As, to be bold with you, </br>
@@ -41,7 +46,6 @@ IAGO (beginning to exit)  My lord, I take my leave. </br>
 Why did I marry? This honest creature doubtless </br>
 Sees and knows more, much more, than he unfolds. </br>
 
-.ve-media wc:The_Bug_Peek.jpg left caption="Dynamic image"
 
 **IAGO** (returning) </br>
 My lord, I would I might entreat your Honor </br>

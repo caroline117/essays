@@ -4,10 +4,10 @@ Juncture visual essays
 **IAGO** </br>
 Long live she so! And long live you to think so! </br>
 
-**OTHELLO** <p>
-    And yet, how <mark qid:"Q115519012"> nature </mark> erring from itself </p>
-
-(Q115519012
+**OTHELLO** </br>
+    And yet, how nature erring from itself </br>
+    
+   ![nature](https://raw.githubusercontent.com/caroline117/media/main/othello.png)
 
 [nature](https://raw.githubusercontent.com/caroline117/media/main/othello.png)
 
@@ -15,9 +15,10 @@ Long live she so! And long live you to think so! </br>
 
 .ve-media (https://raw.githubusercontent.com/caroline117/media/main/othello.png)
 
-.ve-media wc:The_Bug_Peek.jpg left caption="Dynamic image"
-.ve-media wc:The_Bug_Peek.jpg right static caption="Static image"
+.ve-media wc:Dishonesty_as_a_signal_of_trustworthiness_-_Honesty-Humility_and_trustworthy_dishonesty.pdfwidth="40%"
 
+
+.ve-media wc:Chassériau_-_Othello_Suite_No._6_(Act_3,_Scene_3_Desdemona_talking_to_Cassio),_1976.18f.jpg width="40%"  
 
 **IAGO** </br>
 Ay, there’s the point. As, to be bold with you, </br>
@@ -32,6 +33,7 @@ Her will, recoiling to her better judgment, </br>
 May fall to match you with her country forms </br>
 And happily repent. </br> 
 
+![nature](https://raw.githubusercontent.com/caroline117/media/main/Venice.png) 
 
 **SAMPLE COMMENTARY** </br>
 
@@ -60,6 +62,8 @@ Much will be seen in that. In the meantime, </br>
 Let me be thought too busy in my fears— </br>
 As worthy cause I have to fear I am— </br>
 And hold her free, I do beseech your Honor. </br>
+
+.ve-media wc:Chassériau_-_Othello_Suite_No._6_(Act_3,_Scene_3_Desdemona_talking_to_Cassio),_1976.18f.jpg width="40%" 
 
 **OTHELLO**  </br>
 Fear not my government. </br>

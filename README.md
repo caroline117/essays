@@ -2,7 +2,7 @@
 Juncture visual essays
 
 **IAGO** </br>
-Long live she so! And long live you to think so! </br>
+Long live she so! And long live you to think so! </br>g
 
 **OTHELLO** </br>
     And yet, how nature erring from itself </br>

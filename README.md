@@ -7,18 +7,9 @@ Long live she so! And long live you to think so! </br>
 **OTHELLO** </br>
     And yet, how nature erring from itself </br>
     
-   ![nature](https://raw.githubusercontent.com/caroline117/media/main/othello.png)
-
-[nature](https://raw.githubusercontent.com/caroline117/media/main/othello.png)
-
-.ve-media https://raw.githubusercontent.com/caroline117/media/main/othello.png
-
-.ve-media (https://raw.githubusercontent.com/caroline117/media/main/othello.png)
-
-.ve-media wc:Dishonesty_as_a_signal_of_trustworthiness_-_Honesty-Humility_and_trustworthy_dishonesty.pdfwidth="40%"
-
-
-.ve-media wc:Chassériau_-_Othello_Suite_No._6_(Act_3,_Scene_3_Desdemona_talking_to_Cassio),_1976.18f.jpg width="40%"  
+   <p style="color:red;"> The meaning of the line can be interpreted as either Desdemona’s loyal nature erring by having an affair with Cassio or her nature erring by choosing to marry Othello.  </p>
+    
+   ![nature](https://raw.githubusercontent.com/caroline117/media/main/othello.png) </br>
 
 **IAGO** </br>
 Ay, there’s the point. As, to be bold with you, </br>
@@ -33,10 +24,9 @@ Her will, recoiling to her better judgment, </br>
 May fall to match you with her country forms </br>
 And happily repent. </br> 
 
-![nature](https://raw.githubusercontent.com/caroline117/media/main/Venice.png) 
+![nature](https://raw.githubusercontent.com/caroline117/media/main/CityofVenice.png) </br>
 
-**SAMPLE COMMENTARY** </br>
-
+![nature](https://raw.githubusercontent.com/caroline117/media/main/FactsofVenice.png) </br>
 
 **OTHELLO**  </br>
 Farewell, farewell! </br>
@@ -48,6 +38,9 @@ IAGO (beginning to exit)  My lord, I take my leave. </br>
 Why did I marry? This honest creature doubtless </br>
 Sees and knows more, much more, than he unfolds. </br>
 
+<p style="color:red;"> Iago’s manipulation works because he signals himself as trustworthy. People are assumed to be honest in Venetian society, and Iago exploits this baseline assumption to build his ethos. </p>
+
+![nature](https://raw.githubusercontent.com/caroline117/media/main/Honesty.png) </br>
 
 **IAGO** (returning) </br>
 My lord, I would I might entreat your Honor </br>
@@ -63,7 +56,9 @@ Let me be thought too busy in my fears— </br>
 As worthy cause I have to fear I am— </br>
 And hold her free, I do beseech your Honor. </br>
 
-.ve-media wc:Chassériau_-_Othello_Suite_No._6_(Act_3,_Scene_3_Desdemona_talking_to_Cassio),_1976.18f.jpg width="40%" 
+<p style="color:red;"> By first planting the idea of Cassio and Desdemona’s affair in Othello’s mind, Iago creates a false reality for Othello, and then asks Othello to perceive that same reality for himself. Now, Othello won’t be able to see anything other than the images Othello plants in his mind. </p>
+
+.ve-media wc:Chassériau_-_Othello_Suite_No._6_(Act_3,_Scene_3_Desdemona_talking_to_Cassio),_1976.18f.jpg width="40%"  </br>
 
 **OTHELLO**  </br>
 Fear not my government. </br>
@@ -75,6 +70,9 @@ I once more take my leave. (He exits) </br>
 This fellow’s of exceeding honesty, </br>
 And knows all qualities with a learnèd spirit </br>
 Of human dealings. If I do prove her haggard, </br>
+
+![nature](https://raw.githubusercontent.com/caroline117/media/main/IagoandOthello.png) </br>
+
 Though that her jesses were my dear heartstrings, </br>
 I’d whistle her off and let her down the wind </br>
 To prey at fortune. Haply, for I am black </br>
@@ -90,4 +88,6 @@ Than keep a corner in the thing I love </br>
 For others’ uses. Yet ’tis the plague of great ones; </br>
 Prerogatived are they less than the base. </br>
 
-<p style="color:pink;"> urfbeorfy </p>
+![nature](https://raw.githubusercontent.com/caroline117/media/main/Insecurity.png) </br>
+
+![nature](https://raw.githubusercontent.com/caroline117/media/main/Othelloupset.png) </br>

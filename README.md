@@ -1,8 +1,8 @@
 # essays
 Juncture visual essays
-e
+
 **IAGO** </br>
-Long live she so! And long live you to think so! </br>g
+Long live she so! And long live you to think so! </br>
 
 **OTHELLO** </br>
     And yet, how nature erring from itself </br>
